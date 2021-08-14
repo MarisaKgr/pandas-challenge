@@ -1,0 +1,12 @@
+Pandas Challenge
+HeroesOfPymoli 
+Marisa Kiger
+8/14/2021
+
+
+Observable Trends
+1.	In general, there are statistically more male players than female players.  Males comprise 84.03% of the sample while females accounted for only 14.06%.  It would be assumed and is displayed in the analysis that males lead in purchases with 652 purchases versus the 113 purchases of females.  From this collection one can predict that appealing to the male market will improve sales, as the majority buyer.
+
+2.	The largest population in the age demographic is the 20-24 year old range accounting for 44.79%.  The purchasing analysis per age shows that this group is comprised of buyers.  Combining the first two observations the key demographic for sales is tied to males aged 20-24 years old.
+
+3.	The most popular items and most profitable items analysis shows that Final Critic and Oathbreaker, Last Hope of Breaking Storm were top sellers even though they were at a higher price point.  This shows that the average buyer’s decision making is not a monetary decision.  More in-depth data would be required to know what elements of these items influenced the purchase but it can be assumed that if the same conditions are met in future games or items, a higher price point could be established leading to increased profits. 
